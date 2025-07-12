@@ -1,6 +1,6 @@
-# KotobaPhrasebook
+# Kotoba (Learn & Review Japanese!)
 
-KotobaPhrasebook is a modern, easy-to-use Japanese phrasebook app designed to help you learn and reference essential Japanese phrases quickly. Whether you are traveling, studying, or just curious, KotobaPhrasebook makes it simple to find and save useful phrases.
+Kotoba App (ことば) is a modern, easy-to-use Japanese phrasebook app designed to help you learn and reference essential Japanese phrases quickly. Whether you are traveling, studying, or just curious, KotobaPhrasebook makes it simple to find and save useful phrases.
 
 ## Features
 
